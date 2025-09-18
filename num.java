@@ -1,4 +1,4 @@
-package Dharshini_portfolio;
+
 import java.util.Scanner;
 
 public class num {
